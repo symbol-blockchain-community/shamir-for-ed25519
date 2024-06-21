@@ -2,6 +2,10 @@
 
 This is a simple implementation of Shamir's Secret Sharing Scheme for Symbol PrivateKeys.
 
+## Demo
+
+https://split-private-key.vercel.app/
+
 ## Usage
 
 setup the environment and run the script
